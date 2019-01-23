@@ -1,0 +1,54 @@
+1.创建win10镜像
+2.安装win10
+3.修改系统默认位置（下载 文档 视频 图片 音乐 Roaming）
+4.修改系统默认用户数据路径环境变量APPData/Local
+5.修改UWP应用默认存储位置
+
+UWP应用：
+onequick
+snipaste
+EarTrumpet
+我的office
+office专业增强版2016
+网易云音乐
+微信
+
+程序：
+Junction
+bandzip
+chrome
+clover
+console（环境变量PATH）
+dism++
+everything
+gaaiho
+honeyview
+islide tools
+notepad++
+potplayer
+Revouninstaller
+搜狗输入法
+thispcweaker
+迅雷极速版破解版
+百度云破解版
+idm破解版
+TIM
+XXnet
+
+Game：
+epic games
+ubisoft
+暴雪战网
+steam
+idle master
+网易uu加速器
+
+开发：
+Git
+anaconda3
+visual studio
+VMware Pro 12
+
+驱动：
+雷蛇鼠标驱动
+NVIDIA显卡驱动（GeForce Experience）
